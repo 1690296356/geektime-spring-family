@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/geektime-spring-family.iml" filepath="$PROJECT_DIR$/.idea/geektime-spring-family.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 1/hello-spring/hello-spring.iml" filepath="$PROJECT_DIR$/Chapter 1/hello-spring/hello-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter 2/multi-datasource-demo/multi-datasource-demo.iml" filepath="$PROJECT_DIR$/Chapter 2/multi-datasource-demo/multi-datasource-demo.iml" />
+    </modules>
+  </component>
+</project>
